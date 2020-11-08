@@ -1,0 +1,3 @@
+game.ReplicatedStorage.Maps["1"]:Destroy()
+wait(3)
+game:GetObjects("rbxassetid://5930978929")[1].Parent=game.ReplicatedStorage.Maps
